@@ -1,0 +1,19 @@
+
+### list all the users
+GET http://localhost:3000/users
+
+
+### add users
+
+POST http://localhost:3000/users 
+Content-Type: application/json
+
+{
+    "content" : "Hi there"
+}
+
+
+### get one particular user
+
+GET http://localhost:3000/users/31
+
