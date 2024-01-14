@@ -33,7 +33,5 @@ Contributions to this discontinued project are not actively sought. However, if 
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-For any inquiries or further information, please contact [Your Name] at [your.email@example.com].
 
 Thank you for your interest in this project.
